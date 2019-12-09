@@ -6,4 +6,12 @@ Welcome to DELL Technologies
 --Commiting in local
 Your transportation request has been approved by your RM
 --Committing in Local
+<<<<<<< HEAD
 Hello HR
+=======
+=======
+Your payslip has been generated for this month
+---Committed in Remote
+>>>>>>> 8cb24fc8fbb6348dcd36df4d5c40f2220de921bb
+Hello facilities
+>>>>>>> ecd7c885afbfd9ad097db0625231fa36f2923655
