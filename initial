@@ -4,5 +4,10 @@ Hi Paluri Siva Sankar
 --committing in remote repository
 Welcome to DELL Technologies
 --Commiting in local
+<<<<<<< HEAD
 Your transportation request has been approved by your RM
 --Committing in Local
+=======
+Your payslip has been generated for this month
+---Committed in Remote
+>>>>>>> 8cb24fc8fbb6348dcd36df4d5c40f2220de921bb
